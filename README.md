@@ -1,2 +1,2 @@
 # Fruit-ninja
-這是一個用js模擬的遊戲，具有以下功能
+這是一個用javascript 實作水果忍主者的一款遊戲
